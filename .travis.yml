@@ -1,0 +1,3 @@
+language: c
+os: windows
+solution: WinVgStc\WinVgStc.sln

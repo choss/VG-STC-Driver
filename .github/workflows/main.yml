@@ -30,4 +30,4 @@ jobs:
     - name: Run a multi-line script
       run: |
         cd WinVgStc
-        MSBuild.exe WinVgStc.sln
+        MSBuild WinVgStc.sln
